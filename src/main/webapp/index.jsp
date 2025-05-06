@@ -150,7 +150,7 @@ nav .menu {
       <div class="title">Create Amazing Website</div>
       <div class="sub_title">Pure HTML & CSS</div>
       <div class="btns">
-        <button>signin</button>
+        <button>login</button>
         <button>Learn More</button>
       </div>
     </div>
