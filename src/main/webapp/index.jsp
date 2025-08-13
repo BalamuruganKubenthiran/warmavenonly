@@ -148,7 +148,7 @@ nav .menu {
     <div class="img"></div>
     <div class="center">
       <div class="title">Create Amazing Website</div>
-      <div class="sub_title">Pure HTML asdfghj CSS</div>
+      <div class="sub_title">Pure HTML and CSS</div>
       <div class="btns">
         <button>signup</button>
         <button>Learn More</button>
