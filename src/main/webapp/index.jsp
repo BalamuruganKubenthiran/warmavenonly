@@ -151,7 +151,7 @@ nav .menu {
       <div class="sub_title">Pure HTML and CSS</div>
       <div class="btns">
         <button>signup</button>
-        <button>Learn More.....</button>
+        <button>Learn More</button>
       </div>
     </div>
   </body>
